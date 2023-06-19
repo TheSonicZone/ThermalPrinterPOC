@@ -23,11 +23,6 @@ The documentation on this printer mechanism is sketchy at best so allow me to pu
   -- do it all again
 
 
-## Dependencies
-
-PROG05 uses the following libraries which need to be installed using ``go get``, either manually or via the IDE
-- Serial Port Library go.bug.st (https://pkg.go.dev/go.bug.st/serial)
-- GoInfo Library (github.com/matishsiao/goInfo)
 
 ## Usage
 1. Program device
