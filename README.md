@@ -1,6 +1,7 @@
 # ThermalPrinterPOC
 ## _Fun with a FUJITSU printer mechanism and a MSP430G2553_
 ![SAMPLE](sample_print.png)
+
 This is a proof-of-concept to evaluate if a MSP430G2553 is capable of driving a Fujitsu FTP-628MC101 series thermal print engine
 ## Features
 
