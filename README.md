@@ -1,5 +1,6 @@
 # ThermalPrinterPOC
 ## _Fun with a FUJITSU printer mechanism and a MSP430G2553_
+![SAMPLE](sample_print.png)
 
 This is a proof-of-concept to evaluate if a MSP430G2553 is capable of driving a Fujitsu FTP-628MC101 series thermal print engine
 ## Features
@@ -8,7 +9,7 @@ This is a proof-of-concept to evaluate if a MSP430G2553 is capable of driving a 
 - It drives the stepper in 1-2 phase excitation mode which leads to smooth motion
 
 ## Development and Building
-This is a TI Code Composer Studio Project
+This is a TI Code Composer Studio Project that is run on a MSP430 Launchpad fitted with a MSP430G2553
 
 ## How it works
 The documentation on this printer mechanism is sketchy at best so allow me to put the record straight.
